@@ -1,7 +1,9 @@
-/*This program is related to conditional statements (ladder if... else).
-This program is written by Harsh Murjani,
-at Charusat University.
-Student ID - 22TIT007 */
+/*
+    This program is related to conditional statements (ladder if... else).
+    This program is written by Harsh Murjani,
+    at Charusat University.
+    Student ID - 22IT079
+*/
 
 #include<stdio.h>
 
